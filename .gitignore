@@ -23,6 +23,3 @@ target/
 .vscode/
 .idea/
 .vim
-
-## Outputs
-index.html
